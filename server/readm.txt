@@ -1,8 +1,0 @@
-+console
-mkdir server
-npm init -f  //makes package.json
-npm install --save nodemon eslint   //for continuosly restart server
-[20]: "scripts": {
-          "start": ...
-          "lint": ...
-npm 
